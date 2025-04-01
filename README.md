@@ -1,6 +1,12 @@
+Dashboard Project
+=================
+
+This project is a dashboard built using React, Redux Toolkit, and other modern web technologies. The application dynamically displays products and allows the user to interact with data through sorting, pagination, and filtering. It also features a charting component to analyze product data based on various metrics.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 
 First, run the development server:
 
@@ -36,10 +42,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-Dashboard Project
-=================
 
-This project is a dashboard built using React, Redux Toolkit, and other modern web technologies. The application dynamically displays products and allows the user to interact with data through sorting, pagination, and filtering. It also features a charting component to analyze product data based on various metrics.
 
 Key Features
 ------------
