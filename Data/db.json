@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "morsy77@gmail.com",
+      "password": "$2a$10$mTNNcFMxHV5C3yDlkpH9QOtpjsjUessn5QF94wfzUjnr.ljP0TxRm",
+      "name": "Mohamed Morsy",
+      "role": "admin",
+      "id": 1
+    }
+  ]
+}

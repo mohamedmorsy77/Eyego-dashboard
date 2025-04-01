@@ -1,0 +1,5 @@
+{
+  "watch": ["data/db.json"],
+  "ext": "json",
+  "exec": "npx json-server-auth data/db.json --port 5001"
+}
